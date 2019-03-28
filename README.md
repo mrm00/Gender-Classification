@@ -1,1 +1,1 @@
-# Gender-Classification-
+This repository contains an analysis of classification of genders by looking at weight and height variables. I use a logistic regression model to understand relationships between these variables and the classification. Furthermore, I tune the model using a grid search to improve its predictive performance. 
